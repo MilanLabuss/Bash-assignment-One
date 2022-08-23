@@ -26,6 +26,7 @@ execution permission is already assigned, simply report it. The terminate option
 script with a goodbye message. Properly comment your code. 
 
 -Task Three
+
 Write a bash script that automates the creation and deletion of user accounts. The script should 
 accept as input argument, a file containing a list of user names to be created on the system. 
 Enforce that the user provides this input file when running the script.  
